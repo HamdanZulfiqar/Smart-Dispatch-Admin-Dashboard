@@ -1,0 +1,6 @@
+{
+  "name": "Smart Dispatch Admin",
+  "description": "Enterprise logistics management dashboard for dispatch monitoring, driver tracking, and fleet analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
