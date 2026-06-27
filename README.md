@@ -1,20 +1,29 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# Smart Dispatch Admin Dashboard
 
-# Run and deploy your AI Studio app
+A modern logistics and dispatch management dashboard built with **Next.js**, **TypeScript**, and **Tailwind CSS**. Designed as part of the **Smart Dispatch** ecosystem, this application enables administrators to efficiently monitor dispatch operations, manage drivers and customers, track live vehicle locations, assign jobs, and analyze operational performance through an intuitive, responsive interface.
 
-This contains everything you need to run your app locally.
+## Features
 
-View your app in AI Studio: https://ai.studio/apps/e26d41a8-69b5-4780-8786-7c421d81fd39
+* Interactive analytics dashboard
+* Driver management
+* Dispatch management
+* Real-time driver tracking with Google Maps
+* Live dispatch status updates
+* Customer management
+* Real-time notifications
+* Dark & Light mode support
+* Fully responsive design
+* Modern SaaS-inspired UI/UX
 
-## Run Locally
+## Tech Stack
 
-**Prerequisites:**  Node.js
+* Next.js
+* TypeScript
+* Tailwind CSS
+* Socket.IO Client
+* Google Maps API
+* Recharts (or Chart.js)
 
+## Project Purpose
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+This project was developed as a portfolio application to demonstrate the design and development of a modern dispatch management platform. It showcases real-time dashboards, logistics workflows, responsive interfaces, and scalable frontend architecture suitable for transportation, courier, and field service businesses.
